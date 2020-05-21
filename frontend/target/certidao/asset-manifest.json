@@ -1,0 +1,30 @@
+{
+  "files": {
+    "main.js": "http://srvcontabil.sefin.ro.gov.br/certidao/static/js/main.5af4d51e.chunk.js",
+    "main.js.map": "http://srvcontabil.sefin.ro.gov.br/certidao/static/js/main.5af4d51e.chunk.js.map",
+    "runtime-main.js": "http://srvcontabil.sefin.ro.gov.br/certidao/static/js/runtime-main.9332b14a.js",
+    "runtime-main.js.map": "http://srvcontabil.sefin.ro.gov.br/certidao/static/js/runtime-main.9332b14a.js.map",
+    "static/css/2.2d6a7d11.chunk.css": "http://srvcontabil.sefin.ro.gov.br/certidao/static/css/2.2d6a7d11.chunk.css",
+    "static/js/2.f45a4546.chunk.js": "http://srvcontabil.sefin.ro.gov.br/certidao/static/js/2.f45a4546.chunk.js",
+    "static/js/2.f45a4546.chunk.js.map": "http://srvcontabil.sefin.ro.gov.br/certidao/static/js/2.f45a4546.chunk.js.map",
+    "index.html": "http://srvcontabil.sefin.ro.gov.br/certidao/index.html",
+    "precache-manifest.69cef5eb4f6344195cb78675071e7763.js": "http://srvcontabil.sefin.ro.gov.br/certidao/precache-manifest.69cef5eb4f6344195cb78675071e7763.js",
+    "service-worker.js": "http://srvcontabil.sefin.ro.gov.br/certidao/service-worker.js",
+    "static/css/2.2d6a7d11.chunk.css.map": "http://srvcontabil.sefin.ro.gov.br/certidao/static/css/2.2d6a7d11.chunk.css.map",
+    "static/js/2.f45a4546.chunk.js.LICENSE": "http://srvcontabil.sefin.ro.gov.br/certidao/static/js/2.f45a4546.chunk.js.LICENSE",
+    "static/media/addfile.svg": "http://srvcontabil.sefin.ro.gov.br/certidao/static/media/addfile.acf669d4.svg",
+    "static/media/addfileactive.svg": "http://srvcontabil.sefin.ro.gov.br/certidao/static/media/addfileactive.b0f9863a.svg",
+    "static/media/checkedfile.svg": "http://srvcontabil.sefin.ro.gov.br/certidao/static/media/checkedfile.e3b289a6.svg",
+    "static/media/checkfile.svg": "http://srvcontabil.sefin.ro.gov.br/certidao/static/media/checkfile.90ea670d.svg",
+    "static/media/checkfileactive.svg": "http://srvcontabil.sefin.ro.gov.br/certidao/static/media/checkfileactive.c4e90f2f.svg",
+    "static/media/close.svg": "http://srvcontabil.sefin.ro.gov.br/certidao/static/media/close.9996ad51.svg",
+    "static/media/logo.svg": "http://srvcontabil.sefin.ro.gov.br/certidao/static/media/logo.ecee71f7.svg",
+    "static/media/rondonia.png": "http://srvcontabil.sefin.ro.gov.br/certidao/static/media/rondonia.06abfa87.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.9332b14a.js",
+    "static/css/2.2d6a7d11.chunk.css",
+    "static/js/2.f45a4546.chunk.js",
+    "static/js/main.5af4d51e.chunk.js"
+  ]
+}
